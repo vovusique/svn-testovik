@@ -9,5 +9,6 @@ func main() {
 
 func newfunc() {
 	fmt.Printf("Entierly new thing\n")
+	fmt.Printf("Doing my separate stuff\n")
 	fmt.Printf("I'm adding more legacy stuff\n")
 }
