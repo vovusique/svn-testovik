@@ -10,3 +10,7 @@ func main() {
 	// that is old code
 	fmt.Printf("Now there's a super-duper-muper updated line\n")
 }
+
+func newfunc() {
+	fmt.Printf("Entierly new thing\n")
+}
