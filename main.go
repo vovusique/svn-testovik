@@ -14,3 +14,7 @@ func main() {
 func newfunc() {
 	fmt.Printf("Entierly new thing\n")
 }
+
+func newfunc2() {
+	fmt.Printf("I'm adding shiny new code and not touching legacy\n")
+}
