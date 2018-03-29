@@ -6,3 +6,7 @@ func main() {
 	fmt.Printf("Hello, world!!!!!!\n")
 	fmt.Printf("Now there's a super-duper-muper updated line\n")
 }
+
+func newfunc() {
+	fmt.Printf("Entierly new thing\n")
+}
