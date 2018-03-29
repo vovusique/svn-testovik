@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Printf("Hello, world!!!!!!\n")
+	fmt.Printf("Now there's a new line\n")
 }
