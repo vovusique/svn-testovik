@@ -13,6 +13,7 @@ func main() {
 
 func newfunc() {
 	fmt.Printf("Entierly new thing\n")
+	fmt.Printf("I'm adding more legacy stuff\n")
 }
 
 func newfunc2() {
